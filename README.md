@@ -112,10 +112,10 @@ public class PrefFragment extends PreferenceFragment {
 </PreferenceScreen>
 ```
 ## Screenshots:<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/main.PNG)<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/EditTextPreference.PNG)<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ListPreference.PNG)<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ScreenPreference.PNG)<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/IntentPreference.PNG)<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ParentChecked.PNG)<br>
-![This picture is stored in the folder of this images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ParentNoChecked.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/main.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/EditTextPreference.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ListPreference.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ScreenPreference.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/IntentPreference.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ParentChecked.PNG)<br>
+![This picture is stored in the folder of images.](https://github.com/huhuhuu/Lab4-SettingActivity/blob/master/images/ParentNoChecked.PNG)<br>
